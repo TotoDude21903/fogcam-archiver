@@ -1,0 +1,19 @@
+{
+  "name": "fogcam-archiver",
+  "version": "1.0.0",
+  "description": "Downloads FogCam screenshot every 20 second",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fogcam"
+  ],
+  "author": "TotoDude21903",
+  "license": "GPL-3.0-or-later"
+}
